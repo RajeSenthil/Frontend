@@ -1,0 +1,48 @@
+#nav1{
+    background-color: rgb(105, 105, 231);
+    color: white;
+    position: sticky;
+    padding: 20px;
+    text-decoration: none;
+    
+}
+.head1{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(118, 118, 242);
+    color: white;
+}
+.bulma{
+    font-size: 30px;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+.bulma1{
+    font-size: 20px;
+    padding-left: 100px;
+}
+a{
+    color: whitesmoke;
+    text-decoration: none;
+    padding-left: 100px;
+}
+.body{
+padding-left: 100px;
+padding-top: 50px;
+}
+aside{
+    float: right;
+    padding-right: 300px;
+    font-size: large;
+    margin-top: -50px;
+}
+img{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#drop{
+    background-color: rgb(105, 105, 231);
+    border: none;
+    color: whitesmoke;
+    margin-left: 150px;
+}

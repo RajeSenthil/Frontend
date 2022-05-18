@@ -1,0 +1,61 @@
+.navbar{
+    background-color: white;
+    border-bottom-style: groove;
+    padding-left: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;   
+    color: rgb(31, 27, 27);
+}
+#nav{
+    position: sticky;
+    top: 0px;
+}
+a{
+    color: rgb(31, 27, 27);
+    text-decoration: none;
+}
+.projects{
+     padding-left: 50px;
+     padding-top: 10px;
+     font-size: 25px;
+}
+.container{
+    position: relative;
+    text-align: left;
+    color: whitesmoke;
+}
+.topleft{
+    position: absolute;
+    top: 0px;
+    background-color:black;
+    padding: 5px;
+}
+img{
+width: 350px;
+height: 230px;
+}
+p{
+    padding-left: 40PX;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 35px;
+}
+h5{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 35px;
+}
+button{
+    width: 95%;
+    border: none;
+    height: 40px;
+}
+#sendme{
+    margin-left: 40px;
+    background-color: black;
+    color: whitesmoke;
+    padding: 8px;
+}
+
+

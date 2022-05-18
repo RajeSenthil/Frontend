@@ -1,0 +1,71 @@
+body{
+    background-color: cornsilk;
+}
+h1{
+    background-color: aquamarine;
+    color: black;
+    box-shadow: 10px 0 30px red;
+    margin-left: 500px;
+    border-radius: 50%;
+    width: 200px;
+    text-align: center;
+    padding: 20px;
+}
+h1:hover{
+    cursor: grab;
+background-color: red;
+}
+p{
+    background-color: aquamarine;
+    color:black;
+    box-shadow: 0 0 30px grey;
+    margin-top :-200px;
+    margin-left: 500px;
+    width: 500px;
+    text-align: justify;
+    padding: 40px;
+    font-family: cursive;
+    font-size: 10px;
+    border-radius: 50%;
+}
+.im{
+    border-radius: 70%;
+}
+nav{
+    background-color: whitesmoke;
+    padding: 20px;
+    position: sticky;
+    top: 0;
+}
+a{
+    font-size: 20px;
+    margin-left: 100px;
+    color:black;
+    text-decoration: none;
+}
+a:hover{
+    color: orange;
+}
+footer{
+    background-color: violet;
+}
+div{
+    text-align: center;
+    color: black;
+}
+h2{
+    background-color: aquamarine;
+    color: black;
+    border-radius: 50%;
+    box-shadow: 10px 0 30px red;
+    text-align: center;
+    width: 250px;
+    margin-top: -500;
+    margin-left: 500px;
+    padding: 20px;
+}
+h2:hover{
+    cursor:grab;
+    background-color: red;
+}
+

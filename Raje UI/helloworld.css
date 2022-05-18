@@ -1,0 +1,59 @@
+
+.navbar{
+    background-color: rgb(33, 18, 18);
+    position: static;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+}
+a{
+    color: whitesmoke;
+    text-decoration: none;
+    padding-left: 5px;
+}
+#select {
+    background-color: rgb(33, 18, 18);
+    border: none;
+    border-style: none;
+    outline: none;
+    font-size: small;
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#text{
+    margin-left: 950px;
+    width: 150px;
+    height: 25px;
+    font-style: oblique;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#button{
+    background-color: rgb(33, 18, 18);
+    color: whitesmoke;
+    border-color: green;
+    font-style: oblique;
+    color: green;
+    padding: 4px;
+    margin-left: 10px;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.h1{
+    background-color:rgba(117, 117, 242, 0.108);
+    padding-left: 150px;
+    padding-top: 50px;
+    height: 200px;
+}
+.style{
+    font-size: large;
+}
+table{
+    padding-top: 70px;
+    padding-left: 150px;
+}
+td{
+    padding-left: 50px;
+}
+

@@ -1,0 +1,19 @@
+#learning{
+position: relative;
+}
+#learning > img{
+margin: 0px;
+text-align: left;
+position: relative;
+width:100%;
+background-color: red;
+}
+#learning > h5{
+font-family: 'droid_serifitalic';
+color: white;
+font-size: 36px;
+position: relative;
+top:0px;
+z-index: 21;
+background-color: red;
+}
